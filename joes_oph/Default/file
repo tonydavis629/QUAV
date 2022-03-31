@@ -1,0 +1,5 @@
+main. start
+UsbDriver. ctor
+~Channel[0].
+main. 1 device(s) detected.
+Do you want to enter interactive terminal mode? [y/n] Do you want to enter continuous send mode? [y/n] 
